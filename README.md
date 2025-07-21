@@ -1,17 +1,32 @@
-🧠 Data Analysis Step by Step
+🧠 Data Analysis – Step by Step
 
-Welcome to our Data Analysis Projects Using Python series!
+Welcome to my **Data Analysis Projects Using Python** repository!  
+Here you’ll find a growing collection of real-world projects designed to build and showcase practical data analysis skills — from zero to pro 💪
 
-Here you'll find a collection of practical projects covering various fields, aimed at teaching data analysis skills from scratch to professionalism.
-
-🧰 Tools:
+🧰 Tools & Technologies:
 - Python
 - Jupyter Notebook
-- Pandas / Numpy
-- Matplotlib / Seaborn
+- pandas / numpy
+- seaborn / matplotlib
 
-📁 Available Projects:
+---
 
-🎮 [Video Game Sales Analysis](./video-games-analysis) | Analyzing Video Game Sales by Genre, Year, and Platform |
+📁 Projects Included:
 
-🚀 Stay tuned for more: Analyzing Disease Data, Sales, Education, and more coming soon!
+🎮 [Video Game Sales Analysis](./video-games-analysis)
+_Analyzing global video game sales by genre, platform, and release year._
+
+🎥 [YouTube US Trending Analysis](./YouTube-US-Data-Analysis) 
+_Exploring trends, engagement metrics, and category popularity in trending US YouTube videos._
+
+---
+
+📢 Coming Soon:
+- Disease Data Analytics
+- Sales & Marketing Insights
+- Educational Trends
+- and more real-world datasets!
+
+---
+
+🔄 Follow this repository to stay updated as I document and share my journey in data analysis and AI.
