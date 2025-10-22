@@ -60,9 +60,9 @@ Follow this repository to stay updated as I **document and share my progress** i
 ### 🧑‍💻 Author  
 **Ali Abu Salah**  
 _Data Science & Artificial Intelligence Graduate_  
-🌐 [Agam4a Website](https://agam4a.example.com) • 💼 [LinkedIn](https://www.linkedin.com/in/alikamal)  
+💼 [LinkedIn](www.linkedin.com/in/ali-ai-ds)  
 📧 aliaabusalah0@gmail.com
-www.linkedin.com/in/ali-ai-ds
+
 
  
 
